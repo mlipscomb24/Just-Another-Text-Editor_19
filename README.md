@@ -59,9 +59,9 @@ To use the application:
 
 ## Screenshots
 
-![JATE Screenshot](JATE.PNG)
+![JATE Screenshot](JATE.png)
 
-![Render JATE Screenshot](Render.JATE.PNG)
+![Render JATE Screenshot](Render.JATE.png)
 
 ## Deployed Application
 
