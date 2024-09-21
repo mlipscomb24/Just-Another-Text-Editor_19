@@ -56,9 +56,12 @@ To use the application:
 - Workbox
 - Babel
 
+
 ## Screenshots
 
-[Add screenshots of your application here]
+![JATE Screenshot](./JATE.PNG)
+
+![Render JATE Screenshot](./Render.JATE.PNG)
 
 ## Deployed Application
 
